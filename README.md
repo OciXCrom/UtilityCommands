@@ -1,6 +1,11 @@
 # Commands List
 
 Below is a list of commands you can use with the [Utility Commands](https://steamcommunity.com/sharedfiles/filedetails/?id=2666310447) mod for The Binding of Isaac: Repentance.
+
+
+Parameters in `[` square brackets `]` are optional and don't have to be specified when using a command. Some of these have a default value that is represented with the `=` symbol.
+
+
 To display information about a command directly in the Debug Console, type in `<command> ?`
 
 | Command | Usage | Description| Alias |
